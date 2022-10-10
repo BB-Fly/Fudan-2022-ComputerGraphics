@@ -2,6 +2,6 @@
 
 int main()
 {
-    test_canvas();
+    test_Line();
     system("pause");
 }
